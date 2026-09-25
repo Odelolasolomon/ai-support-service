@@ -6,9 +6,9 @@ A lightweight, hybrid FastAPI microservice designed for first-line customer supp
 
 ## Video Walkthrough
 
-<video src="Assesment_explanation.mp4" controls="controls" width="100%">
-  Your browser does not support the video tag. <a href="Assesment_explanation.mp4">Click here to watch or download the walkthrough video</a>.
-</video>
+[Watch the assessment walkthrough video](https://raw.githubusercontent.com/Odelolasolomon/ai-support-service/main/Assesment_explanation.mp4)
+
+[Download the video from the repository](https://github.com/Odelolasolomon/ai-support-service/raw/main/Assesment_explanation.mp4)
 
 ---
 
