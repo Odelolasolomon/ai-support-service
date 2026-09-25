@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Virtual environment
+myvenv/
+
+# Caches
+__pycache__/
+.pytest_cache/
+
+#As the projects goes on osome other files will be ignored
