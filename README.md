@@ -6,7 +6,7 @@ A lightweight, hybrid FastAPI microservice designed for first-line customer supp
 
 ## Video Walkthrough
 
-[Watch the assessment walkthrough video](https://raw.githubusercontent.com/Odelolasolomon/ai-support-service/main/Assesment_explanation.mp4)
+[Watch the assessment walkthrough video](https://github.com/Odelolasolomon/ai-support-service/blob/main/Assesment_explanation.mp4)
 
 [Download the video from the repository](https://github.com/Odelolasolomon/ai-support-service/raw/main/Assesment_explanation.mp4)
 
